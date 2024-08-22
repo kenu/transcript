@@ -1,0 +1,9 @@
+{
+	"type": "module",
+	"dependencies": {
+		"youtube-transcript": "^1.2.1"
+	},
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
